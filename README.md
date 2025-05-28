@@ -1,2 +1,2 @@
 # CNN-DenseNet121-XRAY-Image
-DETEKSI PENYAKIT PARU MELALUI CITRA X-RAY MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORK DENSENET121 BERBASIS TRANSFER LEARNING
+Deteksi Penyakit Paru Melalui Citra X-Ray Menggunakan Convolutional Neural Network DenseNet121 Berbasis Transfer Learning
